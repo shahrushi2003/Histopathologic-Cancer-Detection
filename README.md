@@ -10,7 +10,6 @@ The problem of histopathologic cancer detection aims to develop an accurate mach
 
 The histopathologic cancer detection dataset is a collection of pathology images used to detect metastatic cancer in histopathologic tissue. The dataset contains a total of 220,025 RGB colour images of size 96x96 pixels. Each image has been labelled as either containing metastatic tissue or not, and the labels are binary (0 or 1).
 \
-\
 The dataset is split into two parts: the training and test sets. The training set contains 220,024 images with their corresponding labels provided in a CSV file. The test set contains 57,458 unlabeled images, and the project aims to predict the labels of the test set with high accuracy. The dataset is intended to be used for developing machine learning models to automatically detect cancer in pathology images.
 You can download the dataset from [here](https://www.kaggle.com/competitions/histopathologic-cancer-detection):
 <img width="850" alt="Screenshot 2023-05-01 at 04 57 39" src="https://user-images.githubusercontent.com/101819411/235392323-39bee21a-9e36-4c73-ae5b-beeb928cc6ac.png">
